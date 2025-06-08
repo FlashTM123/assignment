@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.4" pages="2">
   <diagram name="Page-1" id="CofDZJmG8fSnKSbHHaX5">
-    <mxGraphModel dx="2825" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3121" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -664,10 +664,10 @@
         <mxCell id="EDunHTceVNKmtEA8XfGl-51" value="n" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-500" y="960" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l7UyvkIeeyqLXzXud0CQ-2" value="product_detail" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="l7UyvkIeeyqLXzXud0CQ-2" value="product_detail" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="935" y="250" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l7UyvkIeeyqLXzXud0CQ-3" value="product_image" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="l7UyvkIeeyqLXzXud0CQ-3" value="product_image" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1090" y="440" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
